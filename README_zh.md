@@ -34,29 +34,29 @@
 
 <div align="center" id="topic">
 
-# 👋Hello there
-### Welcome to 🍵ZRedTea's Profile
+# 👋你好！
+### 欢迎来到🍵ZRedTea的个人空间
 
 </div>
 
 ---
 
-## 🖋️ Introduce
+## 🖋️ 个人介绍
 
-Now I'm a Student learning in SIAS University. So my code maybe a little stupid, please forgive me.
+我现在就读于郑州西亚斯学院，所以我的代码可能有些笨拙，请谅解
 
-You can find many projects in my GitHub repositories, but to be honest, they are not very well-developed. If you're interested, feel free to fork them and improve upon them.
-
----
-## 📖 About me
-
-- 🔭 I’m currently working on **Python, Java**
-- 🌱 I’m currently learning **NodeJS, VueJS**
-- 👯 I’m looking to collaborate on **Projects interested to me**
-- 💿 I'm currently using **Windows, LinuxMint**
+你可以在我的github仓库中找到许多项目，但是说实话，这些项目完成度不高，如果你感兴趣的话可以建个分支完善他们
 
 ---
-## 📶 GitHub Stats
+## 📖 关于我
+
+- 🔭 我目前开发项目使用 **Python, Java**
+- 🌱 我目前正在学习 **NodeJS, VueJS**
+- 👯 我目前在寻找 **我感兴趣的项目**
+- 💿 我目前使用 **Windows, LinuxMint**
+
+---
+## 📶 Github统计
 
 <div align="center" class="stats">
 
@@ -70,7 +70,7 @@ You can find many projects in my GitHub repositories, but to be honest, they are
 </div>
 
 ---
-## ⌨️ Developing Projects
+## ⌨️ 开发中项目
 
 <table class="projects">
     <tr>
@@ -100,7 +100,7 @@ You can find many projects in my GitHub repositories, but to be honest, they are
 </table>
 
 ---
-## 📞 Contact me
+## 📞 联系方式
 
 
 [![Email](https://img.shields.io/badge/Email-ZRedTea@Outlook.com-F0FFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ZRedTea@outlook.com)
