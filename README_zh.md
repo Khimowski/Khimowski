@@ -43,8 +43,8 @@
 <table class="projects">
     <tr>
         <td>
-            <a href="https://github.com/Khimowski/CSScript">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=CSScript&theme=vue"/>
+            <a href="https://github.com/Khimowski/TeaCSelcter">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=TeaCSelcter&theme=vue"/>
             </a>
         </td>
         <td>
