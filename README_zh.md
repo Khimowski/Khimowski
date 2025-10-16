@@ -1,41 +1,9 @@
-<style>
-.stats {
-    border-collapse: collapse;
-    border-spacing: 0;
-    table-layout: fixed;
-    width: 100%;
-}
-
-.stats .stats {
-    width: 60%;
-    padding: 5px;
-}
-
-.stats .lang {
-    width: 40%;
-    padding: 5px;
-}
-
-
-.projects {
-    border-collapse: collapse;
-    border-spacing: 0;
-    table-layout: fixed;
-    width: 100%
-}
-
-.projects td,th {
-    width: 50%;
-    padding: 5px;
-    border: 1px solid #ccc;
-}
-
-</style>
 
 <div align="center" id="topic">
 
 # 👋你好！
 ### 欢迎来到🍵ZRedTea的个人空间
+### **其他语言版本: [English](README.md), [中文](README_zh.md).**
 
 </div>
 
