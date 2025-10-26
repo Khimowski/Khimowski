@@ -30,8 +30,8 @@
 
 <table>
   <tr>
-    <td class="stats"><img src="https://github-readme-stats.vercel.app/api?username=Khimowski&show_icons=true&theme=vue&hide_border=true&locale=en" /></td>
-    <td class="lang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khimowski&layout=donut&theme=vue&hide_border=true&locale=en" /></td>
+    <td class="stats"><img src="https://github-readme-stats.vercel.app/api?username=ZRedTea&show_icons=true&theme=vue&hide_border=true&locale=en" /></td>
+    <td class="lang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZRedTea&layout=donut&theme=vue&hide_border=true&locale=en" /></td>
   </tr>
 </table>
 
@@ -43,25 +43,25 @@
 <table class="projects">
     <tr>
         <td>
-            <a href="https://github.com/Khimowski/TeaCSelcter">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=TeaCSelcter&theme=vue"/>
+            <a href="https://github.com/ZRedTea/TeaCSelcter">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=TeaCSelcter&theme=vue"/>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Khimowski/TeaMer">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=TeaMer&theme=catppuccin_latte"/>
+            <a href="https://github.com/ZRedTea/TeaMer">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=TeaMer&theme=catppuccin_latte"/>
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Khimowski/TeaWIKI">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=TeaWIKI&theme=catppuccin_latte"/>
+            <a href="https://github.com/ZRedTea/TeaWIKI">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=TeaWIKI&theme=catppuccin_latte"/>
             </a>
         </td>
         <td>
-            <a href="https://github.com/Khimowski/PinWebsite">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khimowski&repo=PinWebsite&theme=vue"/>
+            <a href="https://github.com/ZRedTea/PinWebsite">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=PinWebsite&theme=vue"/>
             </a>
         </td>
     </tr>
