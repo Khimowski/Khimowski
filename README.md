@@ -42,8 +42,8 @@ You can find many projects in my GitHub repositories, but to be honest, they are
 <table class="projects">
     <tr>
         <td>
-            <a href="https://github.com/ZRedTea/TeaCSelcter">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=TeaCSelcter&theme=vue"/>
+            <a href="https://github.com/ZRedTea/TeaPicK">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZRedTea&repo=TeaPicK&theme=vue"/>
             </a>
         </td>
         <td>
